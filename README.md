@@ -3,7 +3,7 @@ This is a 9am-5pm planner that a user can interact with to plan their day. The u
 
 
 # Screenshot
-![![image](https://user-images.githubusercontent.com/95255407/150716574-1a53203f-daba-4924-b269-dc72971bb72b.png)
+![image](https://user-images.githubusercontent.com/95255407/150716574-1a53203f-daba-4924-b269-dc72971bb72b.png)
 
 
 # Links
